@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TinDog</title>
+  <title>TinDog Webapp</title>
    <style> 
     .gradient-background {
   background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
