@@ -140,7 +140,7 @@
             TinDog. Woof."</h2>
           <img class="pebble-image mt-5" src="./images/dog-img.jpg">
           <p class="col-lg-8 mx-auto lead mt-2">
-            Pebbles, New York</p>
+            Pebbles, New Zealand </p>
         </div>
         <div class="container">
           <div class="row">
