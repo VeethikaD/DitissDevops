@@ -92,7 +92,7 @@
             </svg>
           </div>
           <div>
-            <h3 class="fs-2 text-body-emphasis">So Easy to use.</h3>
+            <h3 class="fs-2 text-body-emphasis">So Easy to use..</h3>
             <p>So easy to use, even your dog could do it too.</p>
           </div>
         </div>
